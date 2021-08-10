@@ -11,7 +11,7 @@ function _App({ Component, pageProps }) {
       <header>
         <Image src="/logo.svg" alt="Logo" width={48} height={48} />
         <h1>
-          <mark>Comtute</mark>.
+          <mark>Linkss</mark>.
         </h1>
         <h3>
           Quick, Easy, Minimal{" "}
@@ -29,7 +29,7 @@ function _App({ Component, pageProps }) {
               <a>Home</a>
             </Link>{" "}
             /{" "}
-            <Link href="https://github.com/VaibhavAcharya/comtute">
+            <Link href="https://github.com/VaibhavAcharya/linkss">
               <a>Source @ Github</a>
             </Link>
           </p>

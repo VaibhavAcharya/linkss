@@ -1,4 +1,4 @@
-# Comtute.
+# Linkss.
 Quick, Easy, Minimal ***Link Shorter***.
 
 ## Tech Stack

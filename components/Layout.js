@@ -7,7 +7,7 @@ export default function Layout({ children }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <title>Comtute</title>
+        <title>Linkss</title>
         <meta
           name="description"
           content="Quick & Minimal Link Shorter Web Application."
