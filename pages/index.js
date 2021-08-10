@@ -64,7 +64,7 @@ export default function Landing() {
               <>
                 Your new link is ready.
                 <br />
-                <a href={newLink} target="_blank">
+                <a href={newLink} target="_blank" rel="noreferrer">
                   {newLink}
                 </a>
               </>

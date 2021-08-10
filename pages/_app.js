@@ -9,7 +9,7 @@ function _App({ Component, pageProps }) {
   return (
     <Layout>
       <header>
-        <Image src="/logo.svg" width={48} height={48} />
+        <Image src="/logo.svg" alt="Logo" width={48} height={48} />
         <h1>
           <mark>Comtute</mark>.
         </h1>
