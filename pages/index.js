@@ -27,7 +27,7 @@ export default function Landing() {
       if (error) {
         setIsError(true);
       } else {
-        setNewLink(`${process.env.NEXT_PUBLIC_VERCEL_URL}/l/${newLink.id}`);
+        setNewLink(`${process.env.NEXT_PUBLIC_BASE_URL}/l/${newLink.id}`);
       }
     } catch (e) {
       console.log("Error: ", e);
